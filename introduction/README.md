@@ -30,3 +30,14 @@ be able to grasp important concepts and reapply them in your particular environm
 A lot of the tools I'm going to mention are actually cross-platform, so they will
 run as good (or better) in your favourite environment. Just stop blaming me and keep
 reading!
+
+## My Assumptions
+I also have a couple of rules (you haven't thought that it would be *that* simple, right?).
+Let me summarise them here:
+
+ * I expect that you are able to tackle issues you may face in the process. I'm not
+going to explain how to install tools, edit config files, etc. - please refer to official
+documentation for that.
+ * I don't plan to explain trivial things - I assume that you know the tools you are using.
+For example, I expect that you know what .PDB file is and why it is important (or, if you
+don't, you could find the missing pieces in different sources).
