@@ -6,7 +6,7 @@ languages, various technologies, tools. You are accomplished professional or yes
 student - it does not matter. You know that you can do everything. You are the Programmer.
 
 And you are right - you *really* can. And I'm not trying to mock you here. You will
-get first version really fast - and more likely than none it will work (somehow,
+get first version really fast - and more likely than none it will work (somehow;
 anyhow at the very least). You will be able to release first version and a couple of
 updates without much problems. But inevitable, and I'm sure you had exactly this feeling
 many times (and will have much more, be sure of that), you will come to the following idea:

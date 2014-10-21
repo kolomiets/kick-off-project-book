@@ -1,7 +1,6 @@
 # Summary
 
 * [Foreword](README.md)
-   * [qwert](qwert.md)
 * [Introduction](introduction/README.md)
 * [Build System](build_system/README.md)
 * [Source Control System](source_control_system/README.md)
@@ -13,4 +12,3 @@
 * [Static Code Analysis](static_code_analysis/README.md)
 * [Digital Signing](digital_signing/README.md)
 * [Code Coverage](code_coverage/README.md)
-
